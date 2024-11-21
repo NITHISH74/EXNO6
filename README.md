@@ -1,22 +1,40 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
-# Aim:
+## Aim:
 To Perform Data Visualization using seaborn python library for the given data.
 
-# EXPLANATION:
+## EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# Algorithm:
-STEP 1:Include the necessary Library.<br>
-STEP 2:Read the given Data.<br>
-STEP 3:Apply data visualization techniques to identify the patterns of the data.<br>
-STEP 4:Apply the various data visualization tools wherever necessary.<br>
-STEP 5:Include Necessary parameters in each function.<br>
+## Algorithm:
+STEP 1:
 
-# Program and Output:
+Include the necessary Library.<br>
+
+
+STEP 2:
+
+Read the given Data.<br>
+
+
+STEP 3:
+
+Apply data visualization techniques to identify the patterns of the data.<br>
+
+
+STEP 4:
+
+Apply the various data visualization tools wherever necessary.<br>
+
+
+STEP 5:
+
+Include Necessary parameters in each function.<br>
+
+## Program and Output:
 ```
-Developed by: Venkatesh E
-Register number: 212221230119
+Developed by: Nithishwar S
+Register number: 212221230071
 ```
 ```
 import seaborn as sns
@@ -164,5 +182,5 @@ plt.title('Histogram of students Marks')
 ![Screenshot 2024-05-04 100157](https://github.com/Harsayazheni/Expt06-Introduction-to-Data-Science/assets/118708467/b95a290d-8aa5-421b-910f-a8d05f0db533)
 ![Screenshot 2024-05-04 100205](https://github.com/Harsayazheni/Expt06-Introduction-to-Data-Science/assets/118708467/15ad7faa-d749-4ae6-8540-e56e79949db3)
 
-# Result:
+## Result:
 Thus, the Data Visualization using Seaborn Python library for the given data is implemented successfully
